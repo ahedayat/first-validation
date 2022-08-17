@@ -62,4 +62,3 @@ def check_hashes(hash_fname):
 
 
 assert check_hashes(hashes_pth), 'Check hash list does not return True'
-print(check_hashes(hashes_pth))
